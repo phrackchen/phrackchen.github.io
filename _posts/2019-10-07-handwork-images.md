@@ -7,7 +7,7 @@ tags: [handwork]
 comments: False
 ---
 
-My Handwork Photo.
+My Handwork Photo. I wish I can have my own studio in the future.
 <figure>
 	<img src="/assets/img/handwork.jpg">
 </figure>
