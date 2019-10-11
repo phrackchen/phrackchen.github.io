@@ -1,8 +1,9 @@
 ---
 layout: page
 title: About Me
-tags: [about, Jekyll, theme, moon]
+tags: [about]
 date: 2016-03-21
+feature: http://qihua.me/008.jpg
 comments: false
 ---
     
