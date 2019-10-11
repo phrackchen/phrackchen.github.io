@@ -3,7 +3,7 @@ layout: page
 title: About Me
 tags: [about]
 date: 2016-03-21
-feature: http://qihua.me/008.jpg
+feature: http://qihua.me/assets/img/sju.jpg
 comments: false
 ---
     
